@@ -1,15 +1,15 @@
 # eduByte 
 eduByte is an Mobile application exclusively designed for competitive exam aspirants . 
 ## Features to be implemented:
- > Home:
+> Home:
         1. 
         2.
- > Videos:
+> Videos:
         1. VideoView to the top of all
         2. Horizontal slider for various sections  
- > Profile:
+> Profile:
         1. 
         2.
- > Settings:
+> Settings:
         1. 
         2.
