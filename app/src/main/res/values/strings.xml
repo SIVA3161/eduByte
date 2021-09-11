@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">eduByte</string>
+
+    //Bottom Tabs
+    <string name="tab1">Home</string>
+    <string name="tab2">Videos</string>
+    <string name="tab3">Profile</string>
+    <string name="tab4">Settings</string>
+
+    <string name="updates">Live Updates</string>
+    <string name="news">News</string>
+    <string name="view_more">View More</string>
+    <string name="see_all">see more</string>
+    <string name="Noticeboard">Notice board</string>
+</resources>

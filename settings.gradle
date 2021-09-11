@@ -1,0 +1,2 @@
+rootProject.name = "eduByte"
+include ':app'
